@@ -1,0 +1,26 @@
+Region;Population vector for each oblast (1x24) in thousand;Vector of number of deaths in oblasts as of several months ago to the 1st of September 2021;Vector of the number of deaths in the oblasts as recent as possible to the 7th of February 2022;Vector of the number of vaccinations with the second dose in the oblasts to the 1st of September 2021;Vector of the number of vaccinations with the second dose in oblasts to the 7th of February 2022
+Vinnytsia Oblast;1512;1726;3394;157916;563413
+Volyn Oblast;1022;1206;2278;70691;318654
+Dnipropetrovsk Oblast;3100;4676;9199;321025;1339792
+Donetsk Oblast;4063;2479;5357;146571;610434
+Zhytomyr Oblast;1181;1828;3392;123166;441253
+Zakarpattia Oblast;1245;1612;2596;83889;305466
+Zaporizhzhia Oblast;1641;2484;5605;123325;575310
+Ivano-Frankivsk Oblast;1353;2120;3313;90852;407485
+Kyiv Oblast;1795;2797;4861;256220;832728
+Kirovohrad Oblast;906;874;1662;76750;309237
+Luhansk Oblast;2105;1012;2292;66286;281699
+Lviv Oblast;2480;3720;6282;237520;970015
+Mykolaiv Oblast;1093;1885;3417;113455;394356
+Odessa Oblast;2353;3081;5769;187370;822623
+Poltava Oblast;1354;1885;3989;186610;609441
+Rivne Oblast;1143;1217;2416;85104;402574
+Sumy Oblast;1037;1355;3033;111173;425891
+Ternopil Oblast;1023;1223;2268;86641;353312
+Kharkiv Oblast;2602;3687;6641;233724;1047899
+Kherson Oblast;1003;1216;2788;98975;362509
+Khmelnytskyi Oblast;1231;1926;3532;114578;435505
+Cherkasy Oblast;1162;1334;2812;146517;487376
+Chernivtsi Oblast;891;1843;3173;68279;283919
+Chernihiv Oblast;961;1366;2621;106200;381363
+Kyiv (Municipality);2953;5281;8687;610506;1833499

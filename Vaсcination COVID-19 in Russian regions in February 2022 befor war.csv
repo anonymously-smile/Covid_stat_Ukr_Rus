@@ -1,0 +1,86 @@
+;Population vector for each oblast (1x83) in thousand;Vector of the number of vaccinations in region around the 11th of February 2022
+Republic of Adygea;468,34;220000
+Altai Republic;221,559;132839
+Altai region;2268,179;1338386
+Amur region;772,525;454358
+Arkhangelsk region (with NAO);1114,322;539447
+Astrakhan region;989,43;474366
+Republic of Bashkortostan;4001,678;3085430
+Belgorod region;1531,917;1083531
+Bryansk region;1168,771;681533
+The Republic of Buryatia;982,629;504347
+Vladimir region;1323,659;667654
+Volgograd region;2449,781;1700000
+Vologodskaya Oblast;1139,499;527000
+Voronezh region;2287,678;1519100
+The Republic of Dagestan;3153,857;1446504
+Jewish Autonomous Region;153,831;66802
+Zabaykalsky Krai;1043,467;727207
+Ivanovo region;976,918;541938
+The Republic of Ingushetia;524,058;308756
+Irkutsk region;2357,134;1373868
+Kabardino-Balkarian Republic;870,487;286000
+Kaliningrad region;1027,678;510900
+Republic of Kalmykia;267,756;156915
+Kaluga region;1012,844;531119
+Kamchatka Krai;312,704;153448
+Karachay-Cherkess Republic;464,219;230933
+Republic of Karelia;603,067;292753
+Kemerovo region;2604,272;1250100
+Kirov region;1234,78;785297
+Komi Republic;803,477;491198
+Kostroma region;620,776;309791
+Krasnodar region;5687,378;3069826
+Krasnoyarsk region;2849,169;1362709
+Kurgan region;805,51;469005
+Kursk region;1083,584;573000
+Leningrad region;1911,586;961517
+Lipetsk region;1113,68;638486
+Magadan Region;137,767;85858
+Mari El Republic;671,455;430301
+The Republic of Mordovia;770,673;482000
+Moscow;12635,466;6199585
+Moscow region;7768,878;4417160
+Murmansk region;724,452;357000
+Nenets Autonomous Okrug;44,54;23954
+Nizhny Novgorod Region;3144,254;2008478
+Novgorod region;586,129;302504
+Novosibirsk region;2780,292;1716327
+Omsk region;1879,548;1225240
+Orenburg region;1924,578;881700
+Oryol Region;714,094;406841
+Penza region;1274,062;871023
+Perm region;2556,852;1173000
+Primorsky Krai;1863,011;1109310
+Pskov region;613,356;296297
+Rostov region;4153,763;2079790
+Ryazan Oblast;1085,152;668975
+Samara Region;3131,72;1750000
+St. Petersburg;5377,503;3285000
+Saratov region;2360,959;1538814
+The Republic of Sakha (Yakutia);992,115;650917
+Sakhalin region;484,177;242056
+Sverdlovsk region;4264,34;2309000
+"Republic of the North Ossetia - Alania""";688,124;269115
+Smolensk region;909,856;534809
+Stavropol region;2780,204;1543167
+Tambov Region;980,984;536363
+Republic of Tatarstan;3886,395;2591000
+Tver region;1230,19;735111
+Tyva Republic;332,609;675887
+The Republic of Khakassia;528,338;773000
+Tomsk region;1068,304;150047
+Tula region;1432,57;1176975
+"Tyumen region
+without Khanty-Mansi Autonomous Okrug and YaNAO";1552,148;700156
+Udmurt republic;1484,46;767350
+Ulyanovsk region;1203,969;721436
+Khabarovsk region;1298,978;324617
+"Khanty-Mansiysk
+Autonomous Okrug - Yugra";1702,24;881700
+Chelyabinsk region;3418,606;1902405
+Chechen Republic;1516,387;722000
+Chuvash Republic;1198,429;704373
+Chukotka Autonomous Okrug;50,04;32892
+Yamalo-Nenets Autonomous Okrug;552,117;274000
+Yaroslavl region;1227,383;646000
